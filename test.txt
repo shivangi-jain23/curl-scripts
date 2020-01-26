@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 90B3-ED5F
+
+ Directory of C:\Users\lenovo\Desktop\curl project
+
+26-01-2020  12:59    <DIR>          .
+26-01-2020  12:59    <DIR>          ..
+26-01-2020  12:59                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  163,641,683,968 bytes free
